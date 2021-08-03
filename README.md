@@ -3,3 +3,6 @@ Assignments of Deep Learning for Computer Vision (DLCV)
 * HW2 - Semantic Segmentation
 * HW3 - Domain Adaptation & Generative Adversarial Network (GAN)
 * HW4 - Action Recognition & Segmentation in Videos
+
+## Credit
+All HWs were designed by Prof. Yu-Chiang Frank Wang and his TAs.
